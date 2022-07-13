@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack Developer who love writing JavaScript, and building fun experiments</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjadev56&label=Profile%20views&color=0e75b6&style=flat" alt="ninjadev56" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devninja56&label=Profile%20views&color=0e75b6&style=flat" alt="devninja56" /> </p>
 
 - 🌱 I’m currently learning **AI, ML, Phython**
 
