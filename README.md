@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **NodeJS, ReactJS, TypeScript, NextJS, NestJS, Redux, VanillaJS, Chrome Extension, MongoDB, SQL or any other tech related stuff**
 
-- 📫 How to reach me **danisamim9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
