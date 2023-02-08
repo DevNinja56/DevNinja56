@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2147483647&v=beta&t=_9FtKJcA9d2CdwIVXRLesSUgYymeUYZ6GlVYi2IxFY0)](https://www.fastech.info/)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2147483647&v=beta&t=_9FtKJcA9d2CdwIVXRLesSUgYymeUYZ6GlVYi2IxFY0)]
 <h1 align="center">Hi 👋, I'm DevNinja</h1>
 <h3 align="center">A passionate MERN Stack Developer who love writing JavaScript, and building fun experiments</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
@@ -7,14 +7,12 @@
 
 - 🌱 I’m currently learning **AI, ML, Phython**
 
-- 👨‍💻 All of my projects are available at [https://www.fastech.info/](https://www.fastech.info/)
-
 - 💬 Ask me about **NodeJS, ReactJS, TypeScript, NextJS, NestJS, Redux, VanillaJS, Chrome Extension, MongoDB, SQL or any other tech related stuff**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daud samim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daud samim" height="30" width="40" /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daud samim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
