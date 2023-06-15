@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=2147483647&v=beta&t=_9FtKJcA9d2CdwIVXRLesSUgYymeUYZ6GlVYi2IxFY0)]
+[![MasterHead](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/full-stack-developer.jpg?itok=MB2j2_Yt)]
 <h1 align="center">Hi 👋, I'm DevNinja</h1>
 <h3 align="center">A passionate Full Stack Developer who love writing JavaScript, PHP and building fun experiments</h3>
 <img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
